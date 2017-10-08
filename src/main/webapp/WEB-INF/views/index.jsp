@@ -8,7 +8,7 @@
 </head>
 <body>
   <h1>Index page</h1>
-  <p>this is sample page for spring Boot!</p>
+  <p>${msg}</p>
 </body>
 
 </html>
