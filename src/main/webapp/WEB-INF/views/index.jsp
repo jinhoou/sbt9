@@ -9,6 +9,10 @@
 <body>
   <h1>Index page</h1>
   <p>${msg}</p>
+  <form method="post" action="/post">
+    <input type="text" name="text1">
+    <input type="submit">
+  </form>
 </body>
 
 </html>
